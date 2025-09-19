@@ -9,5 +9,6 @@ package org.centrale.git_test;
  * @author anas-
  */
 public class test_class {
+    System.out.println("hello git");
     
 }
